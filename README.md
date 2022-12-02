@@ -11,3 +11,4 @@ My first repository
 3. Orange
 4. Blue
 5. Pink
+6. Violet
